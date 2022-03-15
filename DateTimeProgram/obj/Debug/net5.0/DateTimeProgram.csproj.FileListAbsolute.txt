@@ -1,0 +1,16 @@
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.exe
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.deps.json
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.runtimeconfig.json
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.runtimeconfig.dev.json
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.dll
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\bin\Debug\net5.0\DateTimeProgram.pdb
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.dll
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\refint\DateTimeProgram.dll
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.pdb
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\DateTimeProgram.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\DateTimeProgram\DateTimeProgram\obj\Debug\net5.0\ref\DateTimeProgram.dll
